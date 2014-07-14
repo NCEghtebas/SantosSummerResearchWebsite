@@ -1,9 +1,9 @@
 
 var myImage = document.getElementById("mainImage");
 
-var imageArray = ["../images/ediblecars.jpg","../images/vw.jpg",
-					"../images/oldsmobile.jpg", "../images/engine.jpg"
-					,"../images/biodegradablecar.jpg"];
+var imageArray = ["images/ediblecars.jpg","images/vw.jpg",
+					"images/oldsmobile.jpg", "images/engine.jpg"
+					,"images/biodegradablecar.jpg"];
 
 var imageIndex = 0;
 
